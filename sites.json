@@ -6,6 +6,12 @@
       "title": "判断力",
       "description": "主题、脉络与来源",
       "path": "since/"
+    },
+    {
+      "id": "ganzhi",
+      "title": "干支取相",
+      "description": "以自然之相，理解时间之名。",
+      "path": "ganzhi/"
     }
   ]
 }
