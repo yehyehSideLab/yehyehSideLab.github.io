@@ -32,6 +32,6 @@ python3 tests/integration/verify_publishing.py \
 
 ## 线上复验
 
-主控启用 Pages 后，同一命令增加 `--public-url https://yehyehSideLab.github.io/web-publish/`，浏览器针对真实 HTTPS 站点另存 `online-*` 截图及请求日志。QA 另外读取真实站点页面确认上线地址与响应，不能只凭本地通过或 CI 绿色宣布上线。
+主控启用 Pages 后，同一命令增加 `--public-url https://yehyehSideLab.github.io/`，浏览器针对真实 HTTPS 站点另存 `online-*` 截图及请求日志。QA 另外读取真实站点页面确认上线地址与响应，不能只凭本地通过或 CI 绿色宣布上线。
 
 若 Pages 尚未启用、返回错误或传播未完成，必须明确写“尚未上线/线上待验”，不能用本地截图替代。此脚本不启用 Pages、不推送 main、不改变仓库可见性。原有 8765 预览服务不会被修改或停止。

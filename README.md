@@ -2,11 +2,13 @@
 
 公开网站的统一发布仓库。每个网站有自己的目录和地址；源码和原始数据在各自项目维护，这里接收已确认可公开的静态产物。
 
-网站入口：<https://yehyehsidelab.github.io/web-publish/>
+网站入口：<https://yehyehsidelab.github.io/>
 
-Since / 判断力：<https://yehyehsidelab.github.io/web-publish/since/>
+干支取相：<https://yehyehsidelab.github.io/ganzhi/>
 
-已上线并完成真实公网验收。[首次成功部署](https://github.com/yehyehSideLab/web-publish/actions/runs/41290800930)；后续状态见 [Publish Websites 工作流](https://github.com/yehyehSideLab/web-publish/actions/workflows/pages.yml)。
+Since / 判断力：<https://yehyehsidelab.github.io/since/>
+
+已上线并完成真实公网验收。[首次成功部署](https://github.com/yehyehSideLab/yehyehSideLab.github.io/actions/runs/41290800930)；后续状态见 [Publish Websites 工作流](https://github.com/yehyehSideLab/yehyehSideLab.github.io/actions/workflows/pages.yml)。
 
 ## 目录
 
@@ -54,7 +56,7 @@ git commit -m "Publish your-site"
 git push origin main
 ```
 
-推送 main 会自动校验所有登记站点的文件哈希、组装并发布。网站地址为 `https://yehyehsidelab.github.io/web-publish/<id>/`。发布状态以 Actions 成功及实际网页读回为准；文件导入成功不等于网页已更新。若推送遇到新提交，先更新主线并保留其他站点，不强推覆盖。
+推送 main 会自动校验所有登记站点的文件哈希、组装并发布。网站地址为 `https://yehyehsidelab.github.io/<id>/`。发布状态以 Actions 成功及实际网页读回为准；文件导入成功不等于网页已更新。若推送遇到新提交，先更新主线并保留其他站点，不强推覆盖。
 
 跨私有源码仓库的产物传输由已认证的维护者或 Agent 完成，发布工具不保存凭据，也不自动读取其他私有仓库。原项目提交后仍需构建、导入并提交本仓库；本仓库提交后的 Pages 部署已经自动化。
 
