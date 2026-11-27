@@ -12,6 +12,12 @@
       "title": "干支取相",
       "description": "以自然之相，理解时间之名。",
       "path": "ganzhi/"
+    },
+    {
+      "id": "inktune",
+      "title": "InkTune · 纸上回神",
+      "description": "用真实身体和身边环境翻页的黑白童真互动漫画",
+      "path": "inktune/"
     }
   ]
 }
