@@ -1,23 +1,23 @@
 {
   "version": 1,
   "site_id": "inktune",
-  "release_id": "d4fb2462c87cf739186056fa893197396cd5511188a577c549070c05721445f1",
-  "previous_release_id": "1fee397c218c3abd498ec290587b4d7c8be214423e699ba305e509018eeba4c7",
-  "created_at": "2026-11-27T13:42:54.667097+00:00",
+  "release_id": "b36f8c87d4c2678b0ecabe61ccc306c5cd31d9b65e51710d5c93a8d2d5201cc7",
+  "previous_release_id": "d4fb2462c87cf739186056fa893197396cd5511188a577c549070c05721445f1",
+  "created_at": "2026-11-27T15:43:40.365668+00:00",
   "files": [
     {
-      "path": "assets/index-DPeviB2R.css",
-      "sha256": "bbaa27bd600219aaafa92d4785ee65ab382217488d6ff19843257e3a06d8a184",
-      "size": 7915
+      "path": "assets/index-Cm19Qf6u.js",
+      "sha256": "a218b22952ce8be54a5d0fde07d6bb355ae6e2c30a6bbbf332e31d115f4bdf88",
+      "size": 135221
     },
     {
-      "path": "assets/index-IB1TqCaN.js",
-      "sha256": "41d85bc00fa3db45a0ec323592380aab492d8fbe5406ad222478787cef9aeafa",
-      "size": 119995
+      "path": "assets/index-CzFKfjL-.css",
+      "sha256": "41a652bd5e03bf2ab3bd6fa7367e7e9b680bd0c4e6c1227d7e49ea98c2cf3863",
+      "size": 8158
     },
     {
       "path": "index.html",
-      "sha256": "8a4a51c378c9c864605723922a509315835212950e1d182f97a98a53ef64c198",
+      "sha256": "ec38cb4b278570244b5efe453c2911915ab9e0e2b982512977228dae306f1240",
       "size": 500
     }
   ]
