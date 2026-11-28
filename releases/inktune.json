@@ -1,24 +1,24 @@
 {
   "version": 1,
   "site_id": "inktune",
-  "release_id": "b36f8c87d4c2678b0ecabe61ccc306c5cd31d9b65e51710d5c93a8d2d5201cc7",
-  "previous_release_id": "d4fb2462c87cf739186056fa893197396cd5511188a577c549070c05721445f1",
-  "created_at": "2026-11-27T15:43:40.365668+00:00",
+  "release_id": "c8319da99f8a1077dd9d2ba8a4122a71f18670ab43fdbb35189bf22f9f3fe3a5",
+  "previous_release_id": "b36f8c87d4c2678b0ecabe61ccc306c5cd31d9b65e51710d5c93a8d2d5201cc7",
+  "created_at": "2026-11-28T02:27:07.172278+00:00",
   "files": [
     {
-      "path": "assets/index-Cm19Qf6u.js",
-      "sha256": "a218b22952ce8be54a5d0fde07d6bb355ae6e2c30a6bbbf332e31d115f4bdf88",
-      "size": 135221
+      "path": "assets/index-C8-SDSYG.js",
+      "sha256": "b508f9ad2cb2e6825dae900d9610e53137876d0d29d7af455282562083688871",
+      "size": 238972
     },
     {
-      "path": "assets/index-CzFKfjL-.css",
-      "sha256": "41a652bd5e03bf2ab3bd6fa7367e7e9b680bd0c4e6c1227d7e49ea98c2cf3863",
-      "size": 8158
+      "path": "assets/index-DxFe8X0j.css",
+      "sha256": "3cec590a32a7001169550dddb4b2c73f7052b5f5e61de158c18b7d7278a9ce57",
+      "size": 9180
     },
     {
       "path": "index.html",
-      "sha256": "ec38cb4b278570244b5efe453c2911915ab9e0e2b982512977228dae306f1240",
-      "size": 500
+      "sha256": "e2e165c3152340d2b12105400ca97bafa4245b87caa75e63984535a688a1cf02",
+      "size": 514
     }
   ]
 }
